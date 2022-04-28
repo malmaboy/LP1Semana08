@@ -1,0 +1,15 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/bin/Debug/net6.0/GameUnits
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/bin/Debug/net6.0/GameUnits.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/bin/Debug/net6.0/GameUnits.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/bin/Debug/net6.0/GameUnits.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/bin/Debug/net6.0/GameUnits.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.csproj.AssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/refint/GameUnits.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/GameUnits.genruntimeconfig.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/GameUnits/obj/Debug/net6.0/ref/GameUnits.dll

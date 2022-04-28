@@ -1,0 +1,14 @@
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame.deps.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame.runtimeconfig.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame.runtimeconfig.dev.json
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/bin/Debug/netcoreapp3.1/MiniGame.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.csproj.AssemblyReference.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.AssemblyInfoInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.AssemblyInfo.cs
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.csproj.CoreCompileInputs.cache
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.dll
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.pdb
+/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/obj/Debug/netcoreapp3.1/MiniGame.genruntimeconfig.cache

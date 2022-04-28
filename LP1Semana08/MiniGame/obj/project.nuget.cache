@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ymEoWsjEL4YMI36tAr8D1/M2mqMz/SDfFRxW9BdmSWVhY6KVWH3N2d+oitGTbSUxCcgkZHey4xaBr6j64xTKag==",
+  "success": true,
+  "projectFilePath": "/Users/hugocarvalho/Desktop/Faculdade/LP1/LP1Semana08/MiniGame/MiniGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/hugocarvalho/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/hugocarvalho/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/hugocarvalho/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.23/microsoft.netcore.app.host.osx-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
